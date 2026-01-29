@@ -1,1 +1,25 @@
 
+    body{
+      list-style:lower-alpha ;
+      color:black;
+      background-color: aqua;
+      align-items: safe;
+
+    }
+header{
+    background-color: blanchedalmond;
+    align-self: start;
+    align-items: center;
+}
+section{
+    border-style:solid;
+    background-color: burlywood;
+
+}
+footer{
+    background-color: blanchedalmond;
+    align-items: center;
+    align-self: self-start;
+    background-position: 1%;
+
+}
